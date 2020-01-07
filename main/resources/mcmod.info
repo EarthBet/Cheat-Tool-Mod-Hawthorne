@@ -1,0 +1,16 @@
+[
+{
+  "modid": "toolkit",
+  "name": "Cheat Tools Mod",
+  "description": "Gold Cheat Tools.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Andrew Goldstein"],
+  "credits": "Andrew Goldstein, ",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
