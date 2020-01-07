@@ -23,7 +23,7 @@ public class NewPickaxe extends ItemPickaxe {
 //Line 6, Format: public class ClassName extends ItemType;
 //Line 8: Change NewPickaxe() to ClassName()
 //Line 8, Format: public ClassName() {
-//Line 9: Change myToolMaterial to one of your custom tool materials.
+//Line 9: Change thatToolMaterial to one of your custom tool materials.
 //Line 9, Format: super(ExampleMod.customToolMaterial);
 //Line 11: This'll be what your item is named in the files, change this to avoid mod conflict
 //Make sure it's recognizable as this item, but not something some other group is likely to pick.
