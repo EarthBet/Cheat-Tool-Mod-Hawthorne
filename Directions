@@ -59,7 +59,17 @@ the edit button usually would be.
 Directions D
 32. Inform Andrew/Krish/Elijah/Camden that you've completed everything and send/tell them the name of your repository.
 33. They'll download your main folder and package it into a .jar file, then send it back to you.
-34. You'll then place your .jar file into your mods folder
-35. Finally, you'll test the mod by going into minecraft in creative mode and seeing if your items exist. If Minecraft doesn't start,
+34. Once you recieve the .jar file save it to your desktop
+35. Then download and open the tlauncher file from the repository on GitHub.
+36. Upon opening the installer click "Continue", "Continue", "Continue", "Continue", "Continue", at this point TLauncher will finish downloading and will open.
+37. Once TLauncher opens enter in any name in the "User name" box in the bottom left corner.
+38. Then click the TL Mods icon to the right of the Install button.
+39. In the top left corner you will see a button titled "Create" click it, name it "Test", and set the game version to 1.12.2, and click "Create".
+40. Click the icon of a screwdriver and wrench in the top left corner and click "Manual Installation".
+41. Click "Select Files" and select your mod .Jar file you saved to your desktop in step 34.
+42. Ignore any error messages and click "Install" once this is done.
+43. If a box pops up asking you to send a report simply click "No send" 
+44. Then click "Enter the game" and the game will finish downloading and launch your mod.
+45. Finally, you'll test the mod by going into minecraft in creative mode and seeing if your items exist. If Minecraft doesn't start,
 your items don't exist, or they're pink and black error boxes, you did something wrong and need to go back and make sure you did everything right.
-36. After fixing your errors, go back to step 32 in Directions D and try again.
+46. After fixing your errors, go back to step 32 in Directions D and try again.
