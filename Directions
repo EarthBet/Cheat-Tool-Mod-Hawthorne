@@ -1,1 +1,65 @@
+Directions
+1. Enter the main folder
+2. Enter the java/com/example/examplemod folder
+3. Open each of the .java files
+4. Edit it (press the edit button, a pencil symbol above the file) within the scope of the in-file instructions. The instructions are in 
+the comments of the files. For some of the files the instructions are (mostly) at the bottom. With the exception of CommonProxy.java and
+ExampleMod.java, change the names to whatever you changed their ClassNames to. Make sure to commit your changes at the bottom of the screen.
+5. Go back to the main folder
+6. Enter the resources folder
+7. Open the mcmod.info file
+8. Edit lines 3, 4, 5, 10, and 11
+9. Change the modid on line 3 to whatever you had in ExampleMod.java. Format: "modid": "insert modid here",
+10. Change the name on line 4 to whatever you had in ExampleMod.java. Format: "name": "Whatever You Named Your Mod",
+11. Change the description on line 5 to whatever you want. Format: "description": "Any description You want",
+12. Change my name on lines 10 and 11 to the names of your group. Format: "authorList": ["Name, Name, name, Name"], 
+Format: "credits": "Name, Name, name, Name ",
+13. Commit your changes and enter toolkit, then assets.
+14. Enter one of the three folders in assets.
+15. If you entered the lang folder, go to Directions A. If you entered the models/item folders, go to Directions B. If you entered the
+textures/items folders, go to Directions C. Your team can split up and each do different sets of Directions at the same time.
+22/23/32. After completing Directions A, B, and C, move onto Directions D
 
+Directions A
+16. Enter the en_us.lang file
+17. You'll set a bunch of lines with the following format: item.internal_name_with_no_caps.name=In game Name in Either cap Or not
+18. Change the internal_names_with_no_caps to your internal_names_with_no_caps
+19. Change the In game Name in Either cap Or not to whatever you want.
+20. After doing this for all your items, commit your changes
+21. Go back to the assets folder, then enter the models/item folders and Directions B, or enter textures/items folders and Directions C
+
+Directions B
+16. Enter one of the internal_names_with_no_caps.json files 
+17. Go to line 4 where you'll see a line with the format: "layer0": "toolkit:items/internal_names_with_no_caps"
+18. Replace "layer0": "toolkit:items/internal_names_with_no_caps" with "toolkit:items/your_internal_names_with_no_caps"
+19. Make sure to edit the names of your .json files to your_internal_names_with_no_caps.json, though the .json is automatic and not editable.
+20. Commit your changes then start back from line 16 with all the other .json files in the folder.
+21. After doing directions 16-20 in Directions B with all the .json files in the models/item folder, move on to direction 22.
+22. Go back to the assets folder, then enter the lang folder and Directions A, or enter textures/items folders and Directions C
+
+Directions C
+16. Open one of the internal_names_with_no_caps.png files
+17. Click the download button
+18. It'll open a internal_names_with_no_caps.png window, right click the picture in the middle of the page
+19. Click save image as...
+20. Save it somewhere
+21. Wherever you saved it to, go there
+22. Click the .png file once, right click it, then click Rename
+23. Rename it to whatever you set the internal_name_with_no_caps to in the item's .java file
+24. Right click it again, then click Edit with Paint 3D
+25. Scroll in, change your tool to the pen tool, change the thickness to 1 px, then edit the texture to whatever you want.
+26. Save the image
+27. Upload the edited texture back to the textures/items folder in GitHub
+28. Delete the original texture by opening the original internal_name_with_no_caps.png file and clicking the trash button next to where
+the edit button usually would be.
+29. Go back and repeat directions 16 to 28 for Directions C until you've edited each of the textures.
+30. After completing step 29, move on to direction 31.
+31. Go back to the assets folder, then enter the lang folder and Directions A, or enter the models/item folders and Directions B
+
+Directions D
+32. Inform Andrew/Krish/Elijah/Camden that you've completed everything and send/tell them the name of your repository.
+33. They'll download your main folder and package it into a .jar file, then send it back to you.
+34. You'll then place your .jar file into your mods folder
+35. Finally, you'll test the mod by going into minecraft in creative mode and seeing if your items exist. If Minecraft doesn't start,
+your items don't exist, or they're pink and black error boxes, you did something wrong and need to go back and make sure you did everything right.
+36. After fixing your errors, go back to step 32 in Directions D and try again.
