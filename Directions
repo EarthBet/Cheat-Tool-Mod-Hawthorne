@@ -1,7 +1,7 @@
 Directions
 1. Enter the main folder
 2. Enter the java/com/example/examplemod folder
-3. Open each of the .java files
+3. Open each of the .java files, but open and edit ExampleMod.java first
 4. Edit it (press the edit button, a pencil symbol above the file) within the scope of the in-file instructions. The instructions are in 
 the comments of the files. For some of the files the instructions are (mostly) at the bottom. With the exception of CommonProxy.java and
 ExampleMod.java, change the names to whatever you changed their ClassNames to. Make sure to commit your changes at the bottom of the screen.
